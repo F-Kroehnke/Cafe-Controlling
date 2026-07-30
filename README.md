@@ -158,7 +158,7 @@ Diesen sind folgende **Dimensionstabellen** zugeordnet:
 - DIM_Bank
 - DIM_Wetter und DIM_Events (Tageswetter bzw. lokale Hamburger Veranstaltungen inkl. modelliertem Umsatzeinfluss) – beide 1:1 bidirektional mit Dim_Datum verknüpft, da je Kalendertag genau eine Zeile vorliegt
 
-Ergänzend bündeln sieben themenbezogene **Measure-Tabellen** (Umsatz, Kosten, Gewinn, Weitere KPIs, GuV, Kostenquoten_Tabelle, Kostenarten und Quoten) sowie eine Hilfstabelle für die Kostenquoten-Visuals insgesamt **85 DAX-Measures** – losgelöst von den reinen Datentabellen.
+Ergänzend bündeln sieben themenbezogene **Measure-Tabellen** (Umsatz, Kosten, Gewinn, Weitere KPIs, GuV, Kostenquoten, Kostenarten, etc) insgesamt **85 DAX-Measures**, losgelöst von den reinen Datentabellen.
 
 ## 6. Abschluss
 
