@@ -145,13 +145,13 @@ Das Datenmodell folgt einem **Star-Schema** und trennt **Fakten- von Dimensionsd
 ![Datenmodell](Bilder/Datenmodell.png)
 
 Die zentralen **Faktentabellen** sind:
-- Fact_POS (Kassenbons-Einzelpositionen mit Produkt, Menge, Preis, Zahlungsart, Tisch-Nr. und To-Go-Kennzeichen; rund 73.500 Positionszeilen / 45.300 Bons für 2024)
-- Fact_Bankdaten (Kontobewegungen mit Betrag, Betragstyp, Kategorie, Gegenpartei und Zahlungsmethode)
-- Fact_Ausgangsrechnungen (gestellte Rechnungen, z. B. für Catering-/Event-Aufträge)
-- Fact_Eingangsrechnungen (Eingangsrechnungen von Lieferanten und Dienstleistern)
+- FACT_POS (Kassenbons-Einzelpositionen mit Produkt, Menge, Preis, Zahlungsart, Tisch-Nr. und To-Go-Kennzeichen; rund 73.500 Positionszeilen / 45.300 Bons für 2024)
+- FACT_Bankdaten (Kontobewegungen mit Betrag, Betragstyp, Kategorie, Gegenpartei und Zahlungsmethode)
+- FACT_Ausgangsrechnungen (gestellte Rechnungen, z. B. für Catering-/Event-Aufträge)
+- FACT_Eingangsrechnungen (Eingangsrechnungen von Lieferanten und Dienstleistern)
 
 Diesen sind folgende **Dimensionstabellen** zugeordnet:
-- Dim_Datum (vollständig DAX-generierte Zeitdimension mit Jahr, Quartal, Kalenderwoche, Wochentag, Halbjahr u. a.)
+- DIM_Datum (vollständig DAX-generierte Zeitdimension mit Jahr, Quartal, Kalenderwoche, Wochentag, Halbjahr u. a.)
 - DIM_Produkt → DIM_Produktkategorie (Sortiment: 28 Produkte in 6 Hauptkategorien, z. B. Heißgetränke, Kaltgetränke, Backwaren)
 - DIM_Kategorie (Buchungs- und Kostenkategorien inkl. GuV-Zuordnung)
 - DIM_Kostenstelle, DIM_Steuer, DIM_Zahlungsmethode und DIM_Gegenpartei (Kunden, Lieferanten, Vermieter, Behörden)
