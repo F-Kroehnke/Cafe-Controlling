@@ -6,7 +6,7 @@ Dieses Projekt umfasst ein **Power BI Cockpit** zur wirtschaftlichen Steuerung e
 
 Ziel ist es, eine schnelle und transparente Übersicht über die **wirtschaftliche Entwicklung eines gastronomischen Kleinbetriebs** zu ermöglichen, von den Tageseinnahmen der Kasse bis zur Gewinn- und Verlustrechnung. Der Bericht umfasst folgende Analysebereiche:
 
-- **Überblick** - Gesamtkennzahlen zu Einnahmen, Ausgaben, Ergebnis und Zielerreichung
+- **Übersicht** - Gesamtkennzahlen zu Einnahmen, Ausgaben, Ergebnis und Zielerreichung
 - **Umsatz** - Entwicklung von Netto-Umsatz und Netto-Kosten im Zeitverlauf
 - **Umsatztreiber** - Einfluss von Wochentag, Uhrzeit, Wetter und lokalen Events auf den Tagesumsatz
 - **Produkte** - Verkaufsanalyse und ABC-Klassifizierung einzelner Produkte
@@ -19,7 +19,7 @@ Datenbasis ist ein vollständiges Geschäftsjahr (2024) mit rund 45.300 Bons (ca
 
 ![(Bilder/Seite1_Ueberblick.png)](https://github.com/F-Kroehnke/Cafe-Controlling/blob/51ec64ada9fb69c6d401a6dc13078f6c60ac515b/Bilder/%C3%9Cbersicht.png)
 
-*(Screenshot für erste Berichtsseite "Überblick". Erläuterung der Berichtsseite unter 3.)*
+*(Screenshot für erste Berichtsseite "Übersicht". Erläuterung der Berichtsseite unter 3.)*
 
 ## 2. Dashboard Übersicht
 
@@ -31,7 +31,7 @@ Durch die Konsolidierung von **Kassen- (POS-), Bank-, Rechnungs- und Stammdaten*
 
 ## 3. Dashboard Seiten
 
-**Überblick**
+**Übersicht**
 
 *(Screenshot oben bereits gezeigt, kein zweites Bild nötig)*
 
