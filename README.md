@@ -17,7 +17,7 @@ Ziel ist es, eine schnelle und transparente Übersicht über die **wirtschaftlic
 
 Datenbasis ist ein vollständiges Geschäftsjahr (2024) mit rund 45.300 Bons (ca. 73.500 Positionszeilen) aus dem Kassensystem sowie ergänzenden Bank-, Rechnungs- und Stammdaten. Dadurch wird eine fundierte Entscheidungsgrundlage für die Steuerung eines gastronomischen Betriebs geschaffen.
 
-![(Bilder/Seite1_Ueberblick.png)]
+!https://github.com/F-Kroehnke/Cafe-Controlling/blob/main/Bilder/%C3%9Cbersicht.png
 
 *(Screenshot für erste Berichtsseite "Übersicht". Erläuterung der Berichtsseite unter 3.)*
 
