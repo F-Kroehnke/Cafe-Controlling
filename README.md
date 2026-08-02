@@ -100,6 +100,7 @@ Diese Seite vergleicht **Ist- und Zielkostenquoten** je Kostenart.
 
 ![Seite7](https://github.com/F-Kroehnke/Cafe-Controlling/blob/main/Bilder/Kosten.png)
 
+- Wie hoch ist der Anteil fixer und variabler Kosten?
 - Wie hoch sind Wareneinsatz, Personal- und Betriebskosten im Verhältnis zum Umsatz?
 - Liegen die Kostenquoten über oder unter der definierten Zielquote?
 - Wie hat sich die Kostenquote im Zeitverlauf inklusive Warnschwelle entwickelt?
