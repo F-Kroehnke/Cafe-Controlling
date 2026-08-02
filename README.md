@@ -47,7 +47,7 @@ Diese Seite bildet den **wirtschaftlichen Gesamtüberblick** des Cafés ab.
 
 Diese Seite stellt **Netto-Umsatz und Netto-Kosten** gegenüber und zeigt zentrale Tageskennzahlen.
 
-![Umsatz](Bilder/Seite2_Umsatz.png)
+!(Bilder/Seite2_Umsatz.png)](https://github.com/F-Kroehnke/Cafe-Controlling/blob/1316e9a5013f5d1ee3e81f7d981c74abce0e8897/Bilder/Umsatzanalyse.png)
 
 - Wie entwickeln sich Umsatz und Kosten im Monatsverlauf?
 - Wie hoch ist der durchschnittliche Bon-Wert?
@@ -57,7 +57,7 @@ Diese Seite stellt **Netto-Umsatz und Netto-Kosten** gegenüber und zeigt zentra
 
 Diese Seite analysiert die **Einflussfaktoren auf den Tagesumsatz**.
 
-![Umsatztreiber](Bilder/Seite3_Umsatztreiber.png)
+!(Bilder/Seite3_Umsatztreiber.png)](https://github.com/F-Kroehnke/Cafe-Controlling/blob/1316e9a5013f5d1ee3e81f7d981c74abce0e8897/Bilder/Umsatztreiber.png)
 
 - Zu welchen Wochentagen und Uhrzeiten wird der meiste Umsatz erzielt?
 - Wie stark weicht der Tagesumsatz je nach Wetterlage vom Durchschnitt ab?
@@ -67,7 +67,7 @@ Diese Seite analysiert die **Einflussfaktoren auf den Tagesumsatz**.
 
 Diese Seite untersucht die **Wirtschaftlichkeit der einzelnen Produkte**.
 
-![Produkte](Bilder/Seite4_Produkte.png)
+!https://github.com/F-Kroehnke/Cafe-Controlling/blob/1316e9a5013f5d1ee3e81f7d981c74abce0e8897/Bilder/Produkte.png
 
 - Welche Produkte gehören zur A-, B- oder C-Kategorie nach Umsatzanteil?
 - Wie hat sich der Umsatz je Produkt zum Vormonat verändert?
