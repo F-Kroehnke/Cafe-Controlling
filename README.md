@@ -109,7 +109,7 @@ Diese Seite vergleicht **Ist- und Zielkostenquoten** je Kostenart.
 
 Diese Seite zeigt die **Ausgabenentwicklung je Kategorie** über mehrere Jahre.
 
-![Seite8](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Umsatzanalyse.png)
+![Seite8](https://github.com/F-Kroehnke/Cafe-Controlling/blob/main/Bilder/Kostenentwicklung%20Kategorie.png)
 
 - Wie entwickeln sich die Ausgaben einzelner Kategorien über die Zeit?
 - Welche Kategorien verursachen saisonale Schwankungen?
@@ -142,7 +142,7 @@ Dieses Projekt demonstriert den praxisorientierten Einsatz folgender **Technolog
 
 Das Datenmodell folgt einem **Star-Schema** und trennt **Fakten- von Dimensionsdaten**; die Produkthierarchie ist zusätzlich um eine **Snowflake-Stufe** erweitert.
 
-![Seite9](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Umsatzanalyse.png)
+![Seite9](https://github.com/F-Kroehnke/Cafe-Controlling/blob/main/Bilder/Datenmodell.png)
 
 Die zentralen **Faktentabellen** sind:
 - FACT_POS (Kassenbons-Einzelpositionen mit Produkt, Menge, Preis, Zahlungsart, Tisch-Nr. und To-Go-Kennzeichen; rund 73.500 Positionszeilen / 45.300 Bons für 2024)
