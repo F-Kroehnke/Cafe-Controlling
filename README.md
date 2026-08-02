@@ -47,7 +47,7 @@ Diese Seite bildet den **wirtschaftlichen Gesamtüberblick** des Cafés ab.
 
 Diese Seite stellt **Netto-Umsatz und Netto-Kosten** gegenüber und zeigt zentrale Tageskennzahlen.
 
-!(Bilder/Seite2_Umsatz.png)](https://github.com/F-Kroehnke/Cafe-Controlling/blob/1316e9a5013f5d1ee3e81f7d981c74abce0e8897/Bilder/Umsatzanalyse.png)
+![Seite2](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Umsatzanalyse.png)
 
 - Wie entwickeln sich Umsatz und Kosten im Monatsverlauf?
 - Wie hoch ist der durchschnittliche Bon-Wert?
@@ -57,7 +57,7 @@ Diese Seite stellt **Netto-Umsatz und Netto-Kosten** gegenüber und zeigt zentra
 
 Diese Seite analysiert die **Einflussfaktoren auf den Tagesumsatz**.
 
-!(Bilder/Seite3_Umsatztreiber.png)](https://github.com/F-Kroehnke/Cafe-Controlling/blob/1316e9a5013f5d1ee3e81f7d981c74abce0e8897/Bilder/Umsatztreiber.png)
+![Seite3](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Umsatztreiber.png)
 
 - Zu welchen Wochentagen und Uhrzeiten wird der meiste Umsatz erzielt?
 - Wie stark weicht der Tagesumsatz je nach Wetterlage vom Durchschnitt ab?
@@ -67,7 +67,7 @@ Diese Seite analysiert die **Einflussfaktoren auf den Tagesumsatz**.
 
 Diese Seite untersucht die **Wirtschaftlichkeit der einzelnen Produkte**.
 
-!https://github.com/F-Kroehnke/Cafe-Controlling/blob/1316e9a5013f5d1ee3e81f7d981c74abce0e8897/Bilder/Produkte.png
+![Seite4](https://github.com/F-Kroehnke/Cafe-Controlling/blob/main/Bilder/Produkte.png)
 
 - Welche Produkte gehören zur A-, B- oder C-Kategorie nach Umsatzanteil?
 - Wie hat sich der Umsatz je Produkt zum Vormonat verändert?
@@ -77,7 +77,7 @@ Diese Seite untersucht die **Wirtschaftlichkeit der einzelnen Produkte**.
 
 Diese Seite ergänzt die Produktanalyse um die **zeitliche Entwicklung** je Produkt.
 
-![Umsatzentwicklung Produkte](Bilder/Seite5_Umsatzentwicklung_Produkte.png)
+![Seite5](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Umsatzentwicklung%20Produkte.png)
 
 - Wie entwickelt sich der Umsatz einzelner Produkte über die Monate?
 - Welche Produkte gewinnen, welche verlieren im Jahresverlauf an Bedeutung?
@@ -86,7 +86,7 @@ Diese Seite ergänzt die Produktanalyse um die **zeitliche Entwicklung** je Prod
 
 Diese Seite bildet die **betriebswirtschaftliche Gesamtsicht** inklusive GuV und Liquidität ab.
 
-![Finanzen](Bilder/Seite6_Finanzen.png)
+![Seite6](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Finanzen.png)
 
 - Wie hat sich der Gewinn über die Monate entwickelt?
 - Wie hoch ist das kumulierte Ergebnis im Jahresverlauf?
@@ -98,7 +98,7 @@ Diese Seite bildet die **betriebswirtschaftliche Gesamtsicht** inklusive GuV und
 
 Diese Seite vergleicht **Ist- und Zielkostenquoten** je Kostenart.
 
-![Kosten](Bilder/Seite7_Kosten.png)
+![Seite7](https://github.com/F-Kroehnke/Cafe-Controlling/blob/main/Bilder/Kosten.png)
 
 - Wie hoch sind Wareneinsatz, Personal- und Betriebskosten im Verhältnis zum Umsatz?
 - Liegen die Kostenquoten über oder unter der definierten Zielquote?
@@ -109,7 +109,7 @@ Diese Seite vergleicht **Ist- und Zielkostenquoten** je Kostenart.
 
 Diese Seite zeigt die **Ausgabenentwicklung je Kategorie** über mehrere Jahre.
 
-![Kostenentwicklung Kategorie](Bilder/Seite8_Kostenentwicklung_Kategorie.png)
+![Seite8](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Umsatzanalyse.png)
 
 - Wie entwickeln sich die Ausgaben einzelner Kategorien über die Zeit?
 - Welche Kategorien verursachen saisonale Schwankungen?
@@ -142,7 +142,7 @@ Dieses Projekt demonstriert den praxisorientierten Einsatz folgender **Technolog
 
 Das Datenmodell folgt einem **Star-Schema** und trennt **Fakten- von Dimensionsdaten**; die Produkthierarchie ist zusätzlich um eine **Snowflake-Stufe** erweitert.
 
-![Datenmodell](Bilder/Datenmodell.png)
+![Seite9](https://github.com/F-Kroehnke/Cafe-Controlling/blob/2f4ae625fa5ce24d0e67fecee6aed79a7a2636fd/Bilder/Umsatzanalyse.png)
 
 Die zentralen **Faktentabellen** sind:
 - FACT_POS (Kassenbons-Einzelpositionen mit Produkt, Menge, Preis, Zahlungsart, Tisch-Nr. und To-Go-Kennzeichen; rund 73.500 Positionszeilen / 45.300 Bons für 2024)
